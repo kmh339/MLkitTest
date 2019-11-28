@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "854630456943",
+    "firebase_url": "https://test-e7fec.firebaseio.com",
+    "project_id": "test-e7fec",
+    "storage_bucket": "test-e7fec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854630456943:android:fb0f0fde84cdf90da4379a",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.mlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854630456943-r7fam62q5h7qldfo6jqdsutdk2su3832.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAocS6c9whFcvpwHaBkQ0txBdWZ7jqYles"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854630456943-r7fam62q5h7qldfo6jqdsutdk2su3832.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

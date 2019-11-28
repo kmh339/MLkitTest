@@ -1,0 +1,7 @@
+bottom_jean_dark_plain
+bottom_jean_light_plain
+bottom_pants_black_plain
+bottom_pants_brown_plain
+bottom_pants_green_plain
+bottom_pants_grey_plain
+bottom_pants_white_plain
